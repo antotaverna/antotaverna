@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 </br>
 [![R](https://img.shields.io/badge/R-3DDC84?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Latex](https://img.shields.io/badge/LaTex-4479A1?style=for-the-badge&logo=LaTex&logoColor=white&labelColor=101010)]()
+[![Latex](https://img.shields.io/badge/LaTex-blueviolet?style=for-the-badge&logo=LaTex&logoColor=white&labelColor=101010)]()
+</br>
+[![Git](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Shell-script](https://img.shields.io/badge/Shell_script-green?style=for-the-badge&logo=gnu-Bash&logoColor=white&labelColor=101010)]()
 </br>
