@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills:
+[![Linux](https://img.shields.io/badge/Linux-999999?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
+[![Fortran](https://img.shields.io/badge/Fortran-FA7343?style=for-the-badge&logo=fortran&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-1575F9?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+</br>
+[![R](https://img.shields.io/badge/R-3DDC84?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Latex](https://img.shields.io/badge/LaTex-4479A1?style=for-the-badge&logo=LaTex&logoColor=white&labelColor=101010)]()
+</br>
